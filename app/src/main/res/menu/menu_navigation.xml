@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/mainGroup"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@mipmap/ic_home_black_24dp"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_showAppointment"
+            android:icon="@mipmap/icon"
+            android:title="Show Appointment"/>
+        <item
+            android:id="@+id/nav_bookedAppointment"
+            android:icon="@mipmap/icon"
+            android:title="Booked Appointment"/>
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@mipmap/login"
+            android:title="Login (or Register)"/>
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@mipmap/logout"
+            android:title="Log Out"/>
+
+
+        </group>
+
+    <group
+        android:id="@+id/helpGroop"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_feedback"
+            android:title="Feedback"/>
+        <item
+            android:id="@+id/nav_aboutapp"
+            android:title="About App"/>
+
+    </group>
+</menu>

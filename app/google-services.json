@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "628946840806",
+    "firebase_url": "https://hospitalappointy-7a617.firebaseio.com",
+    "project_id": "hospitalappointy-7a617",
+    "storage_bucket": "hospitalappointy-7a617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628946840806:android:83c3970c114f6fefb71f27",
+        "android_client_info": {
+          "package_name": "com.example.aman.hospitalappointy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628946840806-t30juhlid0aeregbp926s4qsmrp53879.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aman.hospitalappointy",
+            "certificate_hash": "610bc6c36453ffa1a29a54bf73a11ba92e264884"
+          }
+        },
+        {
+          "client_id": "628946840806-cdaqg47fb5piuj9hbfu90sk1mdhcvf4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY70HRzam-uE3wDNA2TxtewFrMIAJoV2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628946840806-cdaqg47fb5piuj9hbfu90sk1mdhcvf4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628946840806:android:7057f896c5a808bfb71f27",
+        "android_client_info": {
+          "package_name": "com.example.hospitalappointy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628946840806-cdaqg47fb5piuj9hbfu90sk1mdhcvf4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY70HRzam-uE3wDNA2TxtewFrMIAJoV2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628946840806-cdaqg47fb5piuj9hbfu90sk1mdhcvf4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
